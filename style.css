@@ -1,3 +1,7 @@
 html {
   background-color: aquamarine  ;
 }
+
+img {
+  max-width: 80vw;
+}
